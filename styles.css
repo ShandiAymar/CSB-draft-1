@@ -1,0 +1,10 @@
+button {
+  background-color: #cb0000;
+  color: #ffffff;
+  border-radius: 5vw;
+}
+
+body {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
